@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/hyras/AndroidStudioProjects/FirebaseDemo/app/src/main/res/layout/activity_login.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/hyras/AndroidStudioProjects/FirebaseDemo/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/hyras/AndroidStudioProjects/FirebaseDemo/app/src/main/res/layout/activity_main.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/hyras/AndroidStudioProjects/FirebaseDemo/app/src/main/res/menu/menu_main.xml" value="0.33" />
       </map>
     </option>
   </component>
